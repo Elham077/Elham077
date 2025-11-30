@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/Elham077/Elham077/blob/main/assets/banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/Elham077/Elham077/blob/main/assets/banner.png" width="50%" height="30%" alt="Banner"/>
 </div>
 
 <br/>
