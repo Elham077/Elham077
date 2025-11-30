@@ -1,9 +1,9 @@
 <!-- Banner -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Elham077/Elham077/blob/main/assets/banner.png" width="50%" height="30%" alt="Banner"/>
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
 
