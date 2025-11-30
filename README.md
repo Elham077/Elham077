@@ -7,12 +7,10 @@
 
 <div align="center">
 
-# 🌐 Mohammad Elham  
-### **Full-Stack Web & Mobile Developer**
+# Mohammad Elham  
+### Full-Stack Web & Mobile Developer
 
-🔹 Crafting modern websites and mobile apps  
-🔹 Focused on clean UI, responsive design, and scalable structure  
-🔹 Learning & building every single day
+Building modern digital experiences with clean UI, scalable architecture, and high-quality code.
 
 <br/>
 
@@ -21,7 +19,16 @@
 <img src="https://img.shields.io/github/followers/Elham077?style=social" />
 <img src="https://img.shields.io/github/stars/Elham077?style=social" />
 
+<br/><br/>
+
 </div>
+
+---
+
+## 🧭 Overview
+
+I’m a full-stack developer focused on building responsive web apps, mobile apps, and modern UI experiences.  
+My workflow is centered around clean structure, scalable backend logic, and Next.js-level modern design principles.
 
 ---
 
@@ -30,7 +37,7 @@
 <div align="center">
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
 
 ### **Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -47,46 +54,50 @@
 
 ## 🚀 Featured Projects
 
-### 📝 **Personal Blog**
-**UI-focused personal blog with clean layout**  
-**Tech:** MERN Stack(MongoDB, ExpressJS, ReactJS, NodeJS)
+### 📝 Personal Blog  
+Clean and minimal blog layout  
+**Tech:** MERN Stack
+
 ---
 
-### 🛒 **E-Commerce UI**
-**Minimal & modern store interface with responsive pages**  
-**Tech:** Html, Css, Bootstrap, JavaScript  
+### 🛒 E-Commerce UI  
+Modern and minimal store interface  
+**Tech:** HTML, CSS, Bootstrap, JavaScript  
+
 ---
 
-### 💼 **Portfolio Website**
-**Clean portfolio showcasing your work & skills**  
-**Tech:** HTML, CSS, JS
+### 💼 Portfolio Website  
+Simple and clean portfolio showcasing my work  
+**Tech:** HTML, CSS, JavaScript
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=Elham077&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elham077&theme=tokyonight&hide_border=true" height="150" />
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
+## ⚡ Currently Working On
 - Improving backend structure  
-- Creating cleaner UI components  
-- Building full-stack personal projects  
+- Designing cleaner UI components  
+- Building new full-stack personal projects  
+
 ---
 
 ## 📫 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white)](get_in_touch:kohistani.taj.786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/mohammad-elham-%E2%80%8Ckohistani-a121b3382)
+[![Email](https://img.shields.io/badge/Email-db4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kohistani.taj.786@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-elham-%E2%80%8Ckohistani-a121b3382)
 
 </div>
 
@@ -94,6 +105,6 @@
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star!
+### ⭐ If you enjoy my work, consider leaving a star!
 
 </div>
