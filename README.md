@@ -4,8 +4,6 @@
 
 <div align="center">
 
-
-
 <a href="https://github.com/Elham077">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=700&color=9BBF9A&center=true&vCenter=true&width=700&lines=%3E+Mohammad+Elham;%3E+Full-Stack+Web+%26+Mobile+Developer;%3E+Building+clean%2C+scalable+experiences.;%3E+%5B+System+Online+%5D" alt="Typing SVG" />
 </a>
@@ -207,6 +205,99 @@ Building next-gen full-stack apps with modern architecture.
 <br/>
 
 <!-- ============================= -->
+<!--        MY FAVORITES           -->
+<!-- ============================= -->
+<!--
+## ⭐ My Favorites
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://res.cloudinary.com/halfway-group/image/upload/f_auto,fl_lossy/w_750%2Cq_auto:good%2Cc_scale/v1719317907/oem/full/toyota/land-cruiser-79/60078105/colour-selectors/sand_beige_daurzr.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 1"/>
+
+**Favorite 1**
+
+<sub>Land Cruiser TOYOTA Series 70</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/19980119_01_02_s.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 2"/>
+
+**Favorite 2**
+
+<sub>Short description here</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/images (3).png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 3"/>
+
+**Favorite 3**
+
+<sub>Short description here</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/images (5).png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 4"/>
+
+**Favorite 4**
+
+<sub>Short description here</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/Land cruiser Serice 200.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 5"/>
+
+**Favorite 5**
+
+<sub>Short description here</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/M4A1_ACOG.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 6"/>
+
+**Favorite 6**
+
+<sub>Short description here</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Elham077/Elham077/main/assets/m-249.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 7"/>
+
+**Favorite 7**
+
+<sub>Short description here</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://res.cloudinary.com/halfway-group/image/upload/f_auto,fl_lossy/w_750%2Cq_auto:good%2Cc_scale/v1662603263/oem/full/toyota/land-cruiser-79/colour-selectors/Sand_Beige_tkxrgl.png" width="400" height="250" style="object-fit:cover;border-radius:8px;" alt="Favorite 8"/>
+
+**Favorite 8**
+
+<sub>Land Cruiser TOYOTA Series 70</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+<br/>
+-->
+<!-- ============================= -->
 <!--         GITHUB STATS          -->
 <!-- ============================= -->
 
@@ -214,12 +305,10 @@ Building next-gen full-stack apps with modern architecture.
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/halfway-group/image/upload/f_auto,fl_lossy/w_750%2Cq_auto:good%2Cc_scale/v1719317907/oem/full/toyota/land-cruiser-79/60078105/colour-selectors/sand_beige_daurzr.png" width="100%" alt="Banner"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Elham077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9bbf9a&icon_color=9bbf9a&text_color=f2f2f2&border_radius=8&include_all_commits=true&count_private=true" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Elham077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9bbf9a&icon_color=9bbf9a&text_color=f2f2f2&border_radius=8&include_all_commits=true&count_private=true" /> -->
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Elham077&theme=tokyonight&hide_border=true&background=050505&stroke=242424&ring=9bbf9a&fire=9bbf9a&currStreakLabel=9bbf9a&sideLabels=f2f2f2&dates=8a8a8a&border_radius=8" />
-
+<!--
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elham077&bg_color=050505&color=9bbf9a&line=9bbf9a&point=f2f2f2&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
@@ -227,7 +316,7 @@ Building next-gen full-stack apps with modern architecture.
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elham077&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9bbf9a&text_color=f2f2f2&border_radius=8&langs_count=8" height="180" />
-
+-->
 </div>
 
 <br/>
@@ -235,7 +324,7 @@ Building next-gen full-stack apps with modern architecture.
 <!-- ============================= -->
 <!--       SNAKE ANIMATION         -->
 <!-- ============================= -->
-
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -249,11 +338,11 @@ Building next-gen full-stack apps with modern architecture.
 </div>
 
 <br/>
-
+-->
 <!-- ============================= -->
 <!--          TROPHIES             -->
 <!-- ============================= -->
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -263,7 +352,7 @@ Building next-gen full-stack apps with modern architecture.
 </div>
 
 <br/>
-
+-->
 <!-- ============================= -->
 <!--         NOW PLAYING           -->
 <!-- ============================= -->
@@ -323,8 +412,6 @@ Building production-grade products
 <!-- ============================= -->
 
 <div align="center">
-
-<img src="https://res.cloudinary.com/halfway-group/image/upload/f_auto,fl_lossy/w_750%2Cq_auto:good%2Cc_scale/v1662603263/oem/full/toyota/land-cruiser-79/colour-selectors/Sand_Beige_tkxrgl.png" width="100%" alt="Sand Beige Banner"/>
 
 </div>
 
